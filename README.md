@@ -8,6 +8,7 @@
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
+- [TinyTools AI Robots.txt Generator](https://tinytools-smoky.vercel.app/) - Free browser-based generator for AI-friendly robots.txt files (GPTBot, ClaudeBot, PerplexityBot, etc.) to control how AI crawlers index your site.
 - [Ubersuggest](https://ubersuggest.com/) - Free SEO tool specializing in generating keyword ideas.
 - [Woorank](https://www.woorank.com/pt/) - Tests your website according to more than 70 SEO criteria.
 - [OptimalUX](https://optimalux.com/seo-patching) - Real-time SEO patching and A/B testing for flawless web experiments.
@@ -17,6 +18,7 @@
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/) - Free browser-based Open Graph image generator with live preview — no signup, exports PNG ready for og:image meta tags.
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
@@ -42,6 +44,7 @@
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
+- [TinyTools SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/) - Free browser-based generator for title, description, Open Graph and Twitter Card meta tags with live preview.
 
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
