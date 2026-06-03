@@ -23,6 +23,7 @@
 - [Diretrizes para Webmasters](https://support.google.com/webmasters/answer/35769) - Google guidelines for webmasters.
 - [Open Graph Protocol](http://opengraphprotocol.org/) - Meta tags protocol used by Facebook.
 
+- [TinyTools - SEO Meta Tag Generator](https://tinytools-smoky.vercel.app/) - Free, browser-based tool for generating and testing SEO meta tags. Creates proper Open Graph, Twitter Card, and standard meta tags without signup. Part of TinyTools collection of free developer utilities. Open source.
 ## **Keyword and Competitor Research**
 - [AHrefs](https://ahrefs.com) - Backlinks searcher and SEO reporter.
 - [Keywordtool.io](http://keywordtool.io/) - Keyword search tool for Google, YouTube, App Store, and Bing.
